@@ -1,2 +1,2 @@
-# autopark-system-in-java
-This is an autopark system in java.
+# Autopark System in Java
+This is an autopark system in java. The Eclipse project file [AutoPark](https://github.com/fzehracetin/autopark-system-in-java/tree/master/AutoPark) is uploaded. You just have to drop this file to your workspace. This project was our Term Project for Object Oriented Programming class. UML schema and all details in this file : [NYP-proje-01-v11.pdf](https://github.com/fzehracetin/autopark-system-in-java/blob/master/NYP-proje-01-v11.pdf)
